@@ -1,23 +1,15 @@
-<h1 align="center">Hi 👋, I'm zyzxti</h1>
+<details>
+  <summary>Click to view my profile</summary>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/704462856690729043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="704462856690729043" height="30" width="40" /></a>
-</p>
+  ## Hi 👋, I'm zyzxti
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/240px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/>
-  </a>
-</p>
+  ### Connect with me:
+  [![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/704462856690729043)
 
+  ### Languages and Tools:
+  - [![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
+  - [![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
+  - [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
+  - [![Lua](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/240px-Lua-Logo.svg.png)](https://www.lua.org/)
+
+</details>
