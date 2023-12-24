@@ -2,7 +2,7 @@
 
 ## Hi there, I'm zyzxti 👋  
 
-
+<img align="left" src="https://i1.sndcdn.com/artworks-pH4Hcn2JpqNt7h7z-JejOmQ-t500x500.jpg" width="189"/>
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
