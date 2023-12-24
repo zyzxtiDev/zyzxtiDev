@@ -1,15 +1,29 @@
-<details>
-  <summary>Click to view my profile</summary>
+<div  align="center">
 
-  ## Hi 👋, I'm zyzxti
+## Hi there, I'm izarooni 👋  
 
-  ### Connect with me:
-  [![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/704462856690729043)
+I do programming as a hobby. 
 
-  ### Languages and Tools:
-  - [![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
-  - [![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
-  - [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-  - [![Lua](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/240px-Lua-Logo.svg.png)](https://www.lua.org/)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
-</details>
+
+<p align="center">
+
+</p>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+<p align="center">
+
+</p>
+
+If you're curious, maybe check out my website where I talk about some projects: [izarooni.com](https://izarooni.com)  
+
+
+---  
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=izarooni&hide_border=true)
+
+</div>
